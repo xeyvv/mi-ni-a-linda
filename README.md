@@ -77,7 +77,7 @@
       <br /><br />
       Gracias por estar a mi lado. Eres mi alegría, mi calma y mi mundo.
     </p>
-    <img src="imagen/cielo2.jpg" alt="cielo" />
-  </div>
+<img src="https://i.pinimg.com/originals/58/d3/3b/58d33b3be053f507a0e54779d6ed49b8.jpg" alt="cielo" />
+
 </body>
 </html>
